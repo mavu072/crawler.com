@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+vscode/
+.history/
+node_modules/
+build
+npm-debug.log
+.nyc
+.env
+*.bundle.js

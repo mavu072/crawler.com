@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+}
+
+.crawler-logo {
+    font-family: 'Bagel Fat One', cursive;
+    color: #ffc107;
+    font-size: 60px;
+    text-shadow: 1px 1px 1px #ababab;
+}
+
